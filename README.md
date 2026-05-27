@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Vaibhav 👋
 
-<!--
-**VAIBHAV-w1/VAIBHAV-w1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science and Design undergraduate passionate about building practical and intelligent software systems.
 
-Here are some ideas to get you started:
+My interests lie in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Django Backend Development
+* Artificial Intelligence & Machine Learning
+* Cybersecurity
+* Computer Vision
+* Scalable Software Engineering
+
+## Tech Stack
+
+* Python
+* Django & FastAPI
+* OpenCV, PyTorch & Scikit-learn
+* MySQL, SQLite & Supabase
+* Git & GitHub
+
+## Projects
+
+* AI-powered Intelligent Surveillance System
+* Cybersecurity Toolkit
+* NLP-based Resume Screening Tool
+* Agricultural Advisory Platform
+* Campus Lost & Found Portal
+
+Currently learning more about:
+
+* Backend Architecture
+* AI/ML Systems
+* Secure Application Development
+* Production-ready Software Engineering
+
+I enjoy building real-world applications that solve meaningful problems through clean and maintainable code.
