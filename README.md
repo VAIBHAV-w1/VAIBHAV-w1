@@ -1,4 +1,4 @@
-# Hi, I'm Vaibhav 👋
+# Hi, I'm Vaibhav S Wandkar👋
 
 Computer Science and Design undergraduate passionate about building practical and intelligent software systems.
 
