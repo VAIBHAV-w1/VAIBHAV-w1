@@ -13,7 +13,7 @@ My interests lie in:
 ## Tech Stack
 
 * Python
-* Django & FastAPI
+* Django
 * OpenCV, PyTorch & Scikit-learn
 * MySQL, SQLite & Supabase
 * Git & GitHub
