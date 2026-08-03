@@ -3,7 +3,7 @@
 Computer Science and Design undergraduate passionate about building practical and intelligent software systems.
 
 My interests lie in:
-
+ 
 * Django Backend Development
 * Artificial Intelligence & Machine Learning
 * Cybersecurity
